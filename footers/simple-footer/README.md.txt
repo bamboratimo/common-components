@@ -1,0 +1,1 @@
+Simple footer made in JS Bin
